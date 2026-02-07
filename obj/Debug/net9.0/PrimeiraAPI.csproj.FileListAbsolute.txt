@@ -41,6 +41,8 @@ C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\PrimeiraAPI.deps.json
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\PrimeiraAPI.runtimeconfig.json
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\PrimeiraAPI.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\PrimeiraAPI.pdb
+C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\AutoMapper.dll
+C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Humanizer.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
