@@ -44,6 +44,8 @@ C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\PrimeiraAPI.pdb
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\AutoMapper.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Humanizer.dll
+C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
@@ -70,6 +72,8 @@ C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.Extensions.Primitiv
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Mono.TextTemplating.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\MySqlConnector.dll
+C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Projects\Curso API\APICatalogo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
